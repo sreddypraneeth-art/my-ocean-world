@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+    <html lang="en">
+        <head>
+            <title>My Planet Explorer</title>
+    <meta charset="utf-8" 
+    <meta name="viewreport" content="width=device-width, intal-scale">
+    <link rel="stylesheet"
+     href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+     <style>
+        body {background-color: #f0f4ff;}
+        .navbar {background-color: #1a237e;}
+        .navbar-brand, .navbar-link {color:#fff !important;}
+        .section-title {color: #1a237e; margin: 20px 0 10;}
+        </style>
+        </head>
+        <body
+        <!-- topic 3: navigation bar -->
+        <nav class="navbar navbar expend-sm">
+            <a class="navbar-brand" herf="#">my planet</a>
+            <ul class="navbar-nav"></ul>
+            <li class="nav-item"><a class="navbar-link" herf="#">homes</a></li>
+            <li class="nav-item"><a class="navbar-link" herf="#">Planets</a></li>
+            <li class="nav-item"><a class="navbar-link" herf="#">stars</a></li>
+        </ul>
+        </nav>
+        <div class="container mt-4">
